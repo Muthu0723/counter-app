@@ -1,0 +1,27 @@
+.counter{
+    text-align: center;
+    width: 350px;
+    height: 270px;
+    border: 2px solid black;
+    align-content: center;
+    background-color: bisque;
+}
+.counter p{
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 10px;
+}
+button{
+    border: none;
+    border-radius: 15px;
+    width: 50px;
+    height: 20px;
+}
+.button1{
+    margin: 10px;
+    background-color: green;
+}
+.button2{
+    margin: 10px;
+    background-color: red;
+}
